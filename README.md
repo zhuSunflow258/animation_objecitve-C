@@ -1,5 +1,7 @@
 # animation_objecitve-C
 
-アニメーション＋NSTimer＋AudioPlayer
-これは既にリリースしたiOSアプリのフロントページです。ダウンロードURLは下記の通り：
-https://apps.apple.com/app/id1181792328
+粒子アニメーション＋NSTimer＋AudioPlayer＋カスタマイズUIControl(switch button)
+
+これは既にリリースしたiOSアプリのフロントページです。
+
+ダウンロードURLは：https://apps.apple.com/app/id1181792328
